@@ -57,7 +57,7 @@ NOTE: This is top-news artcle file. All artcle related style included in this fi
 	color:#fff;	
 }
 
-/* .single-artcle:hover .article-img > a:before{opacity:.5;}
+.single-artcle:hover .article-img > a:before{opacity:.5;}
 
 .article-img > a:after {
   border: 1px solid #ffffff;
@@ -78,7 +78,7 @@ NOTE: This is top-news artcle file. All artcle related style included in this fi
   transform: scale(3);
   transition: all 0.3s ease 0s;
   width: 30px;
-} */
+}
 .single-artcle:hover .article-img > a:after{
 	transform:scale(1);
 	opacity:1;
